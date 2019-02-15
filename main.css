@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    line-height: 38px;
+}
+
+.wrapper {
+    line-height: 30px;
+}
+
+.white {
+    color: white;
+}
+
+#first-man {
+    background-color: black;
+}
